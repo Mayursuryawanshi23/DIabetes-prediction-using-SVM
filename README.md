@@ -19,6 +19,7 @@ This is a simple, professional web application that predicts whether a person is
   - Age
 - Predicts and displays whether the person is diabetic or not
 - Deployed online using [Render](https://render.com)
+- link :-webapp(https://diabetes-prediction-using-svm.onrender.com)
 
 ---
 
@@ -53,6 +54,10 @@ diabetes_prediction_app/
 ├── templates/
 │ ├── index.html
 │ └── result.html
+
+<img width="1328" height="980" alt="Screenshot 2025-07-15 234703" src="https://github.com/user-attachments/assets/c7f4f251-e08e-445a-8554-d449b35c3229" />
+
+<img width="1308" height="876" alt="image" src="https://github.com/user-attachments/assets/01a20fe7-596b-44c8-b466-71bfe0531fcb" />
 
 
 
